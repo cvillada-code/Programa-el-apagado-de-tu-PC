@@ -22,7 +22,11 @@ Aplicación de escritorio desarrollada en Python.
 
 Puedes descargar la versión más reciente desde aquí:
 
-## **👉 Descargar última versión v14.27**
+## **👉 Descargar última versión v.27**
+
+📦 Descargar
+
+[![Descargar](https://img.shields.io/badge/Descargar-v14.14-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Programa-el-apagado-de-tu-PC/releases)
 
 **🛠️ Cómo usar**
 
@@ -32,9 +36,9 @@ Descomprime el archivo.
 
 Ejecuta el archivo .exe y listo.
 
-Nueva versión 14.27.
+Nueva versión 27.
 
-Mejoras en el diseño, se agrega las opciónes de “Suspender” y “Hibernar”
+Mejoras en el diseño, se agrega las opciones de “Suspender” y “Hibernar”
 
 ![Primera](images/Captura_001.png) ![Segunda](images/Captura_002.png)
 
@@ -52,4 +56,32 @@ Esta opción se ha diseñado para portátiles y puede que no esté disponible pa
 
 Usa la hibernación cuando sepas que no usarás el portátil o la tableta durante un largo período y que no podrás recargar la batería durante ese tiempo. Comprueba primero si esta opción está disponible en tu PC y, si lo está, actívala.
 
+##
 
+📢 Canal de YouTube
+
+Si te interesa el desarrollo de software, aplicaciones gratis y automatización:
+
+👉 Suscríbete a mi canal:
+
+<http://www.youtube.com/@CopyAndPasteFree>
+
+##
+
+📄 Licencia
+
+Este proyecto es de uso libre para fines personales.
+
+✍️ Autor
+
+Carlos Villada
+
+⭐ Apoya el proyecto
+
+Si este proyecto te fue útil:
+
+Dale ⭐ al repositorio
+
+Compártelo
+
+Suscríbete al canal
