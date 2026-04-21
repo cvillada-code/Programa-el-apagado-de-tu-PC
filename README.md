@@ -36,13 +36,9 @@ Nueva versión 14.27.
 
 Mejoras en el diseño, se agrega las opciónes de “Suspender” y “Hibernar”
 
-![Primera](images/Captura_001.png)
+![Primera](images/Captura_001.png) ![Segunda](images/Captura_002.png)
 
-![Segunda](images/Captura_002.png)
-
-![Tercera](images/Captura_003.png)
-
-![Cuarta](images/Captura_004.png)
+![Tercera](images/Captura_003.png) ![Cuarta](images/Captura_004.png)
 
 ## **MODO SUSPENSIÓN**
 
