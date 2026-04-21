@@ -26,7 +26,7 @@ Puedes descargar la versión más reciente desde aquí:
 
 📦 Descargar
 
-[![Descargar](https://img.shields.io/badge/Descargar-v14.14-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Programa-el-apagado-de-tu-PC/releases)
+[![Descargar](https://img.shields.io/badge/Descargar-v.27-blue?style=for-the-badge&logo=github)](https://github.com/cvillada-code/Programa-el-apagado-de-tu-PC/releases)
 
 **🛠️ Cómo usar**
 
